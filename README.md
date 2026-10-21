@@ -1,17 +1,48 @@
-# latest_flutter
+# Flutter Login App
 
-A new Flutter project.
+## About the Project
+
+This is a simple login application developed using Flutter and Dart. It demonstrates the design and implementation of a login interface using Flutter widgets.
+
+## Features
+
+- User-friendly login screen
+- Username or email input field
+- Password input field
+- Login button
+- Simple and clean UI design
+- Reusable Flutter widgets
+
+## Technologies Used
+
+- Flutter
+- Dart
+
+## Concepts Learned
+
+- `StatelessWidget` and `StatefulWidget`
+- `MaterialApp` and `Scaffold`
+- `TextField` / `TextFormField`
+- `TextEditingController`
+- `Form` and validation (if implemented)
+- `ElevatedButton`
+- Layout widgets
+- Reusable Custom Widgets
+- UI Design using Flutter
+
+## Project Structure
+
+- `main.dart` – Entry point of the application.
+- `login_screen.dart` – Displays the login screen (if separated into this file).
+- `custom_text_field.dart` – Reusable input field widget (if implemented).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone or download this repository.
+2. Open the project folder in Android Studio or VS Code.
+3. Run `flutter pub get` to install dependencies.
+4. Run `flutter run` to launch the application.
 
-A few resources to get you started if this is your first Flutter project:
+## Author
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Abinaya
